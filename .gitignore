@@ -1,0 +1,9 @@
+*.zip
+*.csv
+*.h5
+*.txt
+*.json
+*.npy
+Check_GPU.ipynb
+Talos_Analysis.ipynb
+.ipynb_checkpoints/
